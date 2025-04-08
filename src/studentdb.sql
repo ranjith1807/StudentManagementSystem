@@ -9,4 +9,3 @@ CREATE TABLE IF NOT EXISTS students (
     department VARCHAR(50),
     dob DATE
 );
-show tables
